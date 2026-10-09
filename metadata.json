@@ -1,0 +1,6 @@
+{
+  "name": "VSA Group of Companies - Quotation & Estimation Management",
+  "description": "Professional multi-company estimation, project management, and quotation builder for electrical, civil/RCC, infrastructure, and smart solutions contracting. Founder: Viraj Umaretiya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
